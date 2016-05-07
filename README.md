@@ -14,10 +14,10 @@
 
 * How to run the client
 
-shell> mysql --user= user_name --password= your_password db_name
+    shell> mysql --user= user_name --password= your_password db_name
 
 * How to execute a script from MySql client
 
-mysql> source file_name
+    mysql> source file_name
 
 
