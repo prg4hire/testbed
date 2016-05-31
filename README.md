@@ -24,7 +24,7 @@
 
     mysql> source file_name
 
-# < a name='conda'></a> conda
+# <a name='conda'></a> conda
 
 conda info --envs
 
