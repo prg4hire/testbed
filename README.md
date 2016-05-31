@@ -2,6 +2,7 @@
 
 * [Git](#git)
 * [MySql](#MySql)
+* [conda](#conda)
 
 # <a name="git"></a>Git
 
@@ -22,5 +23,16 @@
 * How to execute a script from MySql client
 
     mysql> source file_name
+
+# < a name='conda'></a> conda
+
+conda info --envs
+
+conda env list
+
+Windows: activate snowflakes
+
+
+
 
 
