@@ -37,6 +37,11 @@ Windows: activate snowflakes
 
 [How to build boost on windows using mingw/gcc](https://andres.jaimes.net/718/how-to-install-the-c-boost-libraries-on-windows/)
 
+1. bootstrap.bat mingw
+
+2. b2 install toolset=gcc
+
+
 
 
 
