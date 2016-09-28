@@ -3,6 +3,7 @@
 * [Git](#git)
 * [MySql](#MySql)
 * [conda](#conda)
+* [boost](#boost)
 
 # <a name="git"></a>Git
 
@@ -32,6 +33,9 @@ conda env list
 
 Windows: activate snowflakes
 
+# <a name='boost'></a> boost
+
+[How to build boost on windows using mingw/gcc](https://andres.jaimes.net/718/how-to-install-the-c-boost-libraries-on-windows/)
 
 
 
